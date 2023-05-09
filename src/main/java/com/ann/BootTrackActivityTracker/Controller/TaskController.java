@@ -1,9 +1,9 @@
-package com.ann.week8task.Controller;
+package com.ann.BootTrackActivityTracker.Controller;
 
-import com.ann.week8task.dto.TaskDTO;
-import com.ann.week8task.entity.Task;
-import com.ann.week8task.exception.ResourceNotFoundException;
-import com.ann.week8task.service.TaskService;
+import com.ann.BootTrackActivityTracker.dto.TaskDTO;
+import com.ann.BootTrackActivityTracker.entity.Task;
+import com.ann.BootTrackActivityTracker.exception.ResourceNotFoundException;
+import com.ann.BootTrackActivityTracker.service.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

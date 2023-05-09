@@ -1,4 +1,4 @@
-package com.ann.week8task.dto;
+package com.ann.BootTrackActivityTracker.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

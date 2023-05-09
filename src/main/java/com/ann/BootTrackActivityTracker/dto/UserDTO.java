@@ -1,10 +1,6 @@
-package com.ann.week8task.dto;
+package com.ann.BootTrackActivityTracker.dto;
 
 import lombok.*;
-import org.hibernate.Length;
-
-import javax.validation.constraints.Email;
-import javax.validation.constraints.NotBlank;
 
 @Setter
 @Getter

@@ -1,10 +1,10 @@
-package com.ann.week8task.implementation;
+package com.ann.BootTrackActivityTracker.implementation;
 
-import com.ann.week8task.repository.UserRepository;
-import com.ann.week8task.dto.LoginDTO;
-import com.ann.week8task.dto.UserDTO;
-import com.ann.week8task.entity.User;
-import com.ann.week8task.service.UserService;
+import com.ann.BootTrackActivityTracker.repository.UserRepository;
+import com.ann.BootTrackActivityTracker.dto.LoginDTO;
+import com.ann.BootTrackActivityTracker.dto.UserDTO;
+import com.ann.BootTrackActivityTracker.entity.User;
+import com.ann.BootTrackActivityTracker.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

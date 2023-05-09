@@ -1,6 +1,6 @@
-package com.ann.week8task.entity;
+package com.ann.BootTrackActivityTracker.entity;
 
-import com.ann.week8task.dto.TaskDTO;
+import com.ann.BootTrackActivityTracker.dto.TaskDTO;
 import jakarta.persistence.*;
 import lombok.*;
 

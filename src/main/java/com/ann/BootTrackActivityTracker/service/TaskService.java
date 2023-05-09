@@ -1,8 +1,8 @@
-package com.ann.week8task.service;
+package com.ann.BootTrackActivityTracker.service;
 
-import com.ann.week8task.dto.TaskDTO;
-import com.ann.week8task.entity.Task;
-import com.ann.week8task.exception.ResourceNotFoundException;
+import com.ann.BootTrackActivityTracker.dto.TaskDTO;
+import com.ann.BootTrackActivityTracker.entity.Task;
+import com.ann.BootTrackActivityTracker.exception.ResourceNotFoundException;
 
 import java.util.List;
 

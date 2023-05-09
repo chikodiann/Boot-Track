@@ -1,6 +1,6 @@
-package com.ann.week8task.repository;
+package com.ann.BootTrackActivityTracker.repository;
 
-import com.ann.week8task.entity.User;
+import com.ann.BootTrackActivityTracker.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

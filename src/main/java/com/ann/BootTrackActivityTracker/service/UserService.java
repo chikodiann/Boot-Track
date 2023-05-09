@@ -1,8 +1,8 @@
-package com.ann.week8task.service;
+package com.ann.BootTrackActivityTracker.service;
 
-import com.ann.week8task.dto.LoginDTO;
-import com.ann.week8task.dto.UserDTO;
-import com.ann.week8task.entity.User;
+import com.ann.BootTrackActivityTracker.dto.LoginDTO;
+import com.ann.BootTrackActivityTracker.dto.UserDTO;
+import com.ann.BootTrackActivityTracker.entity.User;
 
 import java.util.List;
 

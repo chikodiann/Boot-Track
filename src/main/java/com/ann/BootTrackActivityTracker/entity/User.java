@@ -1,4 +1,4 @@
-package com.ann.week8task.entity;
+package com.ann.BootTrackActivityTracker.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

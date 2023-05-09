@@ -1,10 +1,10 @@
-package com.ann.week8task;
+package com.ann.BootTrackActivityTracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Week8TaskApplicationTests {
+class BootTrackActivityTrackerTests {
 
 	@Test
 	void contextLoads() {

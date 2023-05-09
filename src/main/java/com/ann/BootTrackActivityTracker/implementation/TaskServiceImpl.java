@@ -1,12 +1,12 @@
-package com.ann.week8task.implementation;
+package com.ann.BootTrackActivityTracker.implementation;
 
-import com.ann.week8task.dto.TaskDTO;
-import com.ann.week8task.exception.ResourceNotFoundException;
+import com.ann.BootTrackActivityTracker.dto.TaskDTO;
+import com.ann.BootTrackActivityTracker.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.ann.week8task.repository.TaskRepository;
-import com.ann.week8task.service.TaskService;
-import com.ann.week8task.entity.Task;
+import com.ann.BootTrackActivityTracker.repository.TaskRepository;
+import com.ann.BootTrackActivityTracker.service.TaskService;
+import com.ann.BootTrackActivityTracker.entity.Task;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

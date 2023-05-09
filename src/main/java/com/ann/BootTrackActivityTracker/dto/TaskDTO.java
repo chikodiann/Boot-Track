@@ -1,6 +1,6 @@
-package com.ann.week8task.dto;
+package com.ann.BootTrackActivityTracker.dto;
 
-import com.ann.week8task.entity.Task;
+import com.ann.BootTrackActivityTracker.entity.Task;
 import lombok.*;
 
 import java.time.LocalDateTime;

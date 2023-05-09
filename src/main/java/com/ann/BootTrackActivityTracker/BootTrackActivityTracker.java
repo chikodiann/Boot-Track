@@ -1,13 +1,13 @@
-package com.ann.week8task;
+package com.ann.BootTrackActivityTracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Week8TaskApplication {
+public class BootTrackActivityTracker {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Week8TaskApplication.class, args);
+		SpringApplication.run(BootTrackActivityTracker.class, args);
 	}
 
 }
